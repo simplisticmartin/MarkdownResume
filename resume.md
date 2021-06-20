@@ -8,7 +8,7 @@ I am dedicated in the pursuit of learning and growing in the space of software e
 
 - **Software Development:** JavaScript, Python, HTML/CSS, SQL
 - **Operating Systems:** Windows XP/7, 8, 10, Ubuntu Linux, Mac OSX
-- **Tools:** Github, Adobe PhotoShop, Adobe Indesign, Vim, Microsoft Office, PostgreSQL
+- **Tools:** Github, Adobe PhotoShop, Adobe Indesign, Vim, Microsoft Office, PostgreSQL, Google Cloud Compute
 
 # Experience
 
